@@ -1,0 +1,15 @@
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\Antonio_course_project_1.0.csproj.AssemblyReference.cache
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\Antonio_course_project_1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\Antonio_course_project_1.0.AssemblyInfoInputs.cache
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\Antonio_course_project_1.0.AssemblyInfo.cs
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\Antonio_course_project_1.0.csproj.CoreCompileInputs.cache
+C:\Users\student\source\Antonio_course_project_1.0\bin\Debug\net6.0\Antonio_course_project_1.0.exe
+C:\Users\student\source\Antonio_course_project_1.0\bin\Debug\net6.0\Antonio_course_project_1.0.deps.json
+C:\Users\student\source\Antonio_course_project_1.0\bin\Debug\net6.0\Antonio_course_project_1.0.runtimeconfig.json
+C:\Users\student\source\Antonio_course_project_1.0\bin\Debug\net6.0\Antonio_course_project_1.0.dll
+C:\Users\student\source\Antonio_course_project_1.0\bin\Debug\net6.0\Antonio_course_project_1.0.pdb
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\Antonio_course_project_1.0.dll
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\refint\Antonio_course_project_1.0.dll
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\Antonio_course_project_1.0.pdb
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\Antonio_course_project_1.0.genruntimeconfig.cache
+C:\Users\student\source\Antonio_course_project_1.0\obj\Debug\net6.0\ref\Antonio_course_project_1.0.dll
